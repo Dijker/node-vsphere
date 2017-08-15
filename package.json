@@ -1,6 +1,6 @@
 {
   "name": "vsphere",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Node.js module for performing operations on a vCenter/ESXi host",
   "main": "lib/client.js",
   "author": "reedog117",
