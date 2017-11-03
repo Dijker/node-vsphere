@@ -1,6 +1,6 @@
 {
   "name": "vsphere",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Node.js module for performing operations on a vCenter/ESXi host",
   "main": "lib/client.js",
   "author": "reedog117",
@@ -17,7 +17,7 @@
   "dependencies": {
     "joi": "6.x.x",
     "lodash": "3.x.x",
-    "node-vsphere-soap": "^0.0.2-5"
+    "node-vsphere-soap": "kguirguis/node-vsphere-soap#fix_errors"
   },
   "devDependencies": {
     "code": "1.x.x",
