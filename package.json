@@ -17,7 +17,7 @@
   "dependencies": {
     "joi": "6.x.x",
     "lodash": "3.x.x",
-    "node-vsphere-soap": "kguirguis/node-vsphere-soap#fix_errors"
+    "node-vsphere-soap": "lenniebriscoe/node-vsphere-soap"
   },
   "devDependencies": {
     "code": "1.x.x",
