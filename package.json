@@ -17,7 +17,7 @@
   "dependencies": {
     "joi": "6.x.x",
     "lodash": "3.x.x",
-    "node-vsphere-soap": "lenniebriscoe/node-vsphere-soap"
+    "node-vsphere-soap": "https://github.com/lenniebriscoe/node-vsphere-soap/tarball/master"
   },
   "devDependencies": {
     "code": "1.x.x",
